@@ -50,7 +50,7 @@ _annoying things that developers still continue to do_
     e.g. _Assassin's Creed_
     
 - **Collectables that aren't tracked in an open world game**
-    - That's a lot of stuff you want the completionists to pick up, and you're not even going to give them a hand. Even worse, some games make you _pay_ for a map of all those items.
+    - That's a lot of stuff you want the completionists to pick up, and you're not even going to give them a hand. Even worse, some games make you _pay_ (real money) for a map of all those items.
     
     e.g. _Assassin's Creed_
     
